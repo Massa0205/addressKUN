@@ -1,0 +1,12 @@
+C:\Users\azuli\Documents\addressKUN\addressDecember\addressDecember\bin\Debug\addressDecember.exe.config
+C:\Users\azuli\Documents\addressKUN\addressDecember\addressDecember\bin\Debug\addressDecember.exe
+C:\Users\azuli\Documents\addressKUN\addressDecember\addressDecember\bin\Debug\addressDecember.pdb
+C:\Users\azuli\Documents\addressKUN\addressDecember\addressDecember\bin\Debug\addressDecember.xml
+C:\Users\azuli\Documents\addressKUN\addressDecember\addressDecember\obj\Debug\addressDecember.vbproj.AssemblyReference.cache
+C:\Users\azuli\Documents\addressKUN\addressDecember\addressDecember\obj\Debug\addressDecember.frmMain.resources
+C:\Users\azuli\Documents\addressKUN\addressDecember\addressDecember\obj\Debug\addressDecember.Resources.resources
+C:\Users\azuli\Documents\addressKUN\addressDecember\addressDecember\obj\Debug\addressDecember.vbproj.GenerateResource.cache
+C:\Users\azuli\Documents\addressKUN\addressDecember\addressDecember\obj\Debug\addressDecember.vbproj.CoreCompileInputs.cache
+C:\Users\azuli\Documents\addressKUN\addressDecember\addressDecember\obj\Debug\addressDecember.exe
+C:\Users\azuli\Documents\addressKUN\addressDecember\addressDecember\obj\Debug\addressDecember.xml
+C:\Users\azuli\Documents\addressKUN\addressDecember\addressDecember\obj\Debug\addressDecember.pdb
